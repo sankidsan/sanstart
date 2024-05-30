@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sanstart/static/css/main.f3c60b93.css",
+    "main.js": "/sanstart/static/js/main.d21e4dd0.js",
+    "static/media/hhh.png": "/sanstart/static/media/hhh.411d06e6a336cf1ee70f.png",
+    "static/media/sibi.png": "/sanstart/static/media/sibi.c7c2b70cd1845565a219.png",
+    "static/media/sriram.png": "/sanstart/static/media/sriram.269408457fa2f8de354a.png",
+    "static/media/nil.png": "/sanstart/static/media/nil.86aad6842d6d730d3d46.png",
+    "static/media/san.png": "/sanstart/static/media/san.35e0de94d06618647b71.png",
+    "static/media/logo.png": "/sanstart/static/media/logo.684c030fce3905e551cb.png",
+    "index.html": "/sanstart/index.html",
+    "main.f3c60b93.css.map": "/sanstart/static/css/main.f3c60b93.css.map",
+    "main.d21e4dd0.js.map": "/sanstart/static/js/main.d21e4dd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3c60b93.css",
+    "static/js/main.d21e4dd0.js"
+  ]
+}
